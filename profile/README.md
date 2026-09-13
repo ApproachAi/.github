@@ -1,43 +1,35 @@
-[![Website](https://img.shields.io/website?label=enmodels.com&style=for-the-badge&url=https%3A%2F%2Fenmodels.com)](https://enmodels.com)
-# [Enmodels](https://www.enmodels.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApproachAi/.github/main/profile/assets/logo-reverse.svg">
+  <img alt="Approach" src="https://raw.githubusercontent.com/ApproachAi/.github/main/profile/assets/logo-primary.svg" width="280">
+</picture>
 
-## Hi there 👋
- We provide simple model deployment. Please check us out!
+# Good questions. Better products.
 
+We help turn ideas into useful products with AI, data and software. Based in Norway, Approach works with organisations on product development, applied AI and technical direction—from an early prototype to a production system.
 
+Founded by **[Sven · @haadem](https://github.com/Haadem)**.
 
-# Contributors 🌈
- Are
- Andreas
- Sven
+**[Explore Approach](https://approach.no/en)** · **[Get in touch](mailto:mail@approach.no)**
 
+## How we help
 
+- **Product development:** clarify the problem, test an idea and build the software around it.
+- **AI and data:** connect models, data and workflows to practical business needs.
+- **Technical direction:** make architecture and delivery decisions that support the product over time.
 
+## Products we’re building
 
-### 📕 Latest Blog Posts
+| Product | Focus | Availability |
+| :--- | :--- | :--- |
+| **[ProsjektKlar](https://prosjektklar.no/en)** | Building-project preparation, connecting property data, design and documentation. | Closed beta |
+| **[Datakilde](https://approach.no/en/datakilde)** | Norwegian data and APIs, with clear provenance, coverage and access. | Public site/demo; extended API access on request |
 
-<!-- BLOG-POST-LIST:START -->
+## Engineering at Approach
 
-<!-- BLOG-POST-LIST:END -->
+Our work brings together Python, Go and TypeScript, applied machine learning, data pipelines and cloud infrastructure. We care about understandable systems, useful interfaces and the work of running software after it ships.
 
-### 📕 Latest Github Activity
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 6th, 2023, 8:33:38 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
+Much of our product and client work lives in private repositories. This page is the public home for Approach on GitHub.
 
 ---
-<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37" alt="Neovim" title="Neovim"/></code>
-<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/></code>
-<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-<code><img width="40" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
 
-
-[website]: https://enmodels.com
+Have something in mind? **[Let’s build it →](https://approach.no/en)**
