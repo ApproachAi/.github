@@ -22,7 +22,17 @@ Founded by **[Sven · @haadem](https://github.com/Haadem)**.
 | Product | Focus | Availability |
 | :--- | :--- | :--- |
 | **[ProsjektKlar](https://prosjektklar.no/en)** | Building-project preparation, connecting property data, design and documentation. | Closed beta |
-| **[Datakilde](https://approach.no/en/datakilde)** | Norwegian data and APIs, with clear provenance, coverage and access. | Public site/demo; extended API access on request |
+| **[Datakilde](https://datakilde.no)** | Norwegian data and APIs, with clear provenance, coverage and access. | Public site/demo; extended API access on request |
+
+## Try Datakilde
+
+Look up a Norwegian address—or try the **Bergen City Hall** example—to explore selected public data, browse the data catalogue, and inspect the JSON response.
+
+**[Try the demo at datakilde.no →](https://datakilde.no/#api-demo)** · **[Try it on Approach (English) →](https://approach.no/en/datakilde#api-demo)**
+
+[![Datakilde’s public demo showing the Bergen City Hall example, address lookup and catalogue filters](https://raw.githubusercontent.com/ApproachAi/.github/main/profile/assets/datakilde-demo.png)](https://approach.no/en/datakilde#api-demo)
+
+*Bergen City Hall example in the English demo. No sign-in required; extended API usage and restricted fields require an agreement.*
 
 ## Engineering at Approach
 
